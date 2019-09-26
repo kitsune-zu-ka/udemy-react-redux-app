@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="why-jsx" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569457619753</updated>
       <workItem from="1569457621307" duration="181000" />
-      <workItem from="1569457866529" duration="2176000" />
+      <workItem from="1569457866529" duration="4172000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1569459194694</created>
@@ -88,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569459194694</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="section 3-10">
+      <created>1569460294816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569460294816</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="section 3-10" />
+    <option name="LAST_COMMIT_MESSAGE" value="section 3-10" />
   </component>
 </project>
