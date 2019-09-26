@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="why-jsx" />
+        <entry key="$PROJECT_DIR$" value="more-jsx" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,7 +38,7 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
@@ -79,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569457619753</updated>
       <workItem from="1569457621307" duration="181000" />
-      <workItem from="1569457866529" duration="4172000" />
+      <workItem from="1569457866529" duration="5042000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1569459194694</created>
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569460294816</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="section 3-11">
+      <created>1569463417499</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569463417499</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="section 3-10" />
-    <option name="LAST_COMMIT_MESSAGE" value="section 3-10" />
+    <MESSAGE value="section 3-11" />
+    <option name="LAST_COMMIT_MESSAGE" value="section 3-11" />
   </component>
 </project>
