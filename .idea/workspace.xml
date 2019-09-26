@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="more-jsx" />
+        <entry key="$PROJECT_DIR$" value="components" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569457619753</updated>
       <workItem from="1569457621307" duration="181000" />
-      <workItem from="1569457866529" duration="5042000" />
+      <workItem from="1569457866529" duration="6080000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1569459194694</created>
@@ -102,11 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569463417499</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="section 3-14">
+      <created>1569464867446</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569464867446</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -125,6 +135,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="section 3-10" />
     <MESSAGE value="section 3-11" />
-    <option name="LAST_COMMIT_MESSAGE" value="section 3-11" />
+    <MESSAGE value="section 3-14" />
+    <option name="LAST_COMMIT_MESSAGE" value="section 3-14" />
   </component>
 </project>
