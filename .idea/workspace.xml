@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c30933a-6349-492a-a46e-4f308832b693" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/events_new.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/events_index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/events_index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/events_new.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/events_new.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569457619753</updated>
       <workItem from="1569457621307" duration="181000" />
-      <workItem from="1569457866529" duration="22729000" />
+      <workItem from="1569457866529" duration="23337000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1569459194694</created>
@@ -183,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569486211564</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="chapter 32, 33, 34">
+      <created>1569549269314</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1569549269314</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +218,7 @@
     <MESSAGE value="chapter 21" />
     <MESSAGE value="chapter 22" />
     <MESSAGE value="chapter 30, 31" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 30, 31" />
+    <MESSAGE value="chapter 32, 33, 34" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 32, 33, 34" />
   </component>
 </project>
