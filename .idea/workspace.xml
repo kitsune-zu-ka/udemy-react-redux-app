@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c30933a-6349-492a-a46e-4f308832b693" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/counter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +17,19 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -30,13 +40,21 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -76,12 +94,157 @@
       <option name="presentableId" value="Default" />
       <updated>1569457619753</updated>
       <workItem from="1569457621307" duration="181000" />
-      <workItem from="1569457866529" duration="1056000" />
+      <workItem from="1569457866529" duration="33366000" />
+      <workItem from="1569566154404" duration="2451000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1569459194694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569459194694</updated>
+    </task>
+    <task id="LOCAL-00002" summary="section 3-10">
+      <created>1569460294816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569460294816</updated>
+    </task>
+    <task id="LOCAL-00003" summary="section 3-11">
+      <created>1569463417499</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569463417499</updated>
+    </task>
+    <task id="LOCAL-00004" summary="section 3-14">
+      <created>1569464867446</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569464867446</updated>
+    </task>
+    <task id="LOCAL-00005" summary="section 3-15">
+      <created>1569465718650</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569465718650</updated>
+    </task>
+    <task id="LOCAL-00006" summary="section 3-16">
+      <created>1569469819010</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569469819010</updated>
+    </task>
+    <task id="LOCAL-00007" summary="section 3-17">
+      <created>1569471463040</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569471463040</updated>
+    </task>
+    <task id="LOCAL-00008" summary="section 3-17">
+      <created>1569472690183</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569472690183</updated>
+    </task>
+    <task id="LOCAL-00009" summary="chapter 20">
+      <created>1569473646508</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1569473646508</updated>
+    </task>
+    <task id="LOCAL-00010" summary="chapter 21">
+      <created>1569474662595</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1569474662595</updated>
+    </task>
+    <task id="LOCAL-00011" summary="chapter 22">
+      <created>1569476475718</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1569476475718</updated>
+    </task>
+    <task id="LOCAL-00012" summary="chapter 30, 31">
+      <created>1569486211564</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1569486211564</updated>
+    </task>
+    <task id="LOCAL-00013" summary="chapter 32, 33, 34">
+      <created>1569549269314</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1569549269314</updated>
+    </task>
+    <task id="LOCAL-00014" summary="chapter 35">
+      <created>1569549924255</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1569549924255</updated>
+    </task>
+    <task id="LOCAL-00015" summary="chapter 37">
+      <created>1569552245084</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1569552245084</updated>
+    </task>
+    <task id="LOCAL-00016" summary="chapter 38">
+      <created>1569556566967</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1569556566967</updated>
+    </task>
+    <task id="LOCAL-00017" summary="chapter 39">
+      <created>1569557688905</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1569557688905</updated>
+    </task>
+    <task id="LOCAL-00018" summary="chapter 40">
+      <created>1569560814971</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1569560814971</updated>
+    </task>
+    <task id="LOCAL-00019" summary="chapter 43">
+      <created>1569562989222</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1569562989222</updated>
+    </task>
+    <task id="LOCAL-00020" summary="chapter 44">
+      <created>1569565728875</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1569565728875</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -95,5 +258,27 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="section 3-10" />
+    <MESSAGE value="section 3-11" />
+    <MESSAGE value="section 3-14" />
+    <MESSAGE value="section 3-15" />
+    <MESSAGE value="section 3-16" />
+    <MESSAGE value="section 3-17" />
+    <MESSAGE value="chapter 20" />
+    <MESSAGE value="chapter 21" />
+    <MESSAGE value="chapter 22" />
+    <MESSAGE value="chapter 30, 31" />
+    <MESSAGE value="chapter 32, 33, 34" />
+    <MESSAGE value="chapter 35" />
+    <MESSAGE value="chapter 37" />
+    <MESSAGE value="chapter 38" />
+    <MESSAGE value="chapter 39" />
+    <MESSAGE value="chapter 40" />
+    <MESSAGE value="chapter 43" />
+    <MESSAGE value="chapter 44" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 44" />
   </component>
 </project>
