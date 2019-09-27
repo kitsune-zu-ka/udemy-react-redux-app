@@ -4,6 +4,7 @@
     <list default="true" id="0c30933a-6349-492a-a46e-4f308832b693" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/events_new.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/events_new.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/events_show.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/events_show.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reducers/events.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/events.js" afterDir="false" />
     </list>
@@ -93,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569457619753</updated>
       <workItem from="1569457621307" duration="181000" />
-      <workItem from="1569457866529" duration="27482000" />
+      <workItem from="1569457866529" duration="29274000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1569459194694</created>
@@ -207,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569556566967</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="chapter 39">
+      <created>1569557688905</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1569557688905</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,6 +253,7 @@
     <MESSAGE value="chapter 35" />
     <MESSAGE value="chapter 37" />
     <MESSAGE value="chapter 38" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 38" />
+    <MESSAGE value="chapter 39" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 39" />
   </component>
 </project>
